@@ -1,3 +1,5 @@
+Pull Request are how you merge branches on github
+
 GitHub is a Hub of Git directories
 - git add <file> adds any changes inside file to staging area
 - git commit -m commits staging area repository with an added message
