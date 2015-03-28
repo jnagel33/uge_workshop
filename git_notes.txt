@@ -1,0 +1,14 @@
+- git add <file> adds any changes inside file to staging area
+- git commit -m commits staging area repository with an added message
+- git clone clones remote repository to your desktop
+- git push pushes local repository to remote repository
+- git status -v shows which files are in the staging area
+- git checkout - switch branches or revert back to previous version of file
+- git merge merges branches
+- red x and green check refers to the staging area
+- git ll - list changes in long format
+- git la - shows file text along with change info
+- git reset - take files out of the staging area
+- git df - differences in the staging area
+- HEAD another creates for us when we create our first commit
+- git branch - shows us which branch is active
