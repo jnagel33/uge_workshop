@@ -50,3 +50,10 @@ cd jnagel33/
 cd sea-w26-uge/
 la
 cd new
+
+# control - l clears the terminal
+
+# Hidden folder where the the staging area and commits live
+/.git
+
+
