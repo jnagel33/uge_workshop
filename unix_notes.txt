@@ -1,0 +1,52 @@
+# open new text file using Sublime
+subl moving_around.txt
+
+# A simple shortcut in fish to list files in long format
+ll
+
+# Append history to the current text file
+history >> moving_around.txt
+
+# Use the history output as the input for creating a new text file
+history > moving_around.txt
+
+# long format for files
+ls -l
+
+# list files and directories
+ls
+
+# Output the history log into less application
+history | less
+
+# shows command history
+history
+
+# change directory to the Documents folder
+cd Documents/
+
+cd Documents/../Applications/
+cd ../..
+cd ..
+cd /Users/joshmac/Documents/SwiftDev/
+cd SwiftDev/
+ls SwiftDev/
+cd 'Applications (Parallels)/'
+cd "Applications\ (Parallels)"
+cd Applications\ (Parallels)
+cd Application \ (Parallels)
+
+# print work directory
+pwd
+cd ~
+
+# manual for ls
+man ls
+ls -Sl
+ls -lt
+subl unix_notes.txt
+subl git_notes.txt
+cd jnagel33/
+cd sea-w26-uge/
+la
+cd new
